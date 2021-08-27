@@ -1,0 +1,494 @@
+ /* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    .guide-mix {
+      bottom: -1520px;
+      left: 372px;
+  }
+  .news {
+    padding-top: 43px;
+}
+
+.footer {
+  padding-top: 63px;
+}
+  .quiek #in-right-btn {
+    top: 137cm;
+    right: 9%;
+}
+
+
+
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    .banner {
+      padding-top: 81px;
+      height: 73vh;
+  }
+  .banner h1 {
+    font-size: 55px;
+}
+.sec-chap label {
+  margin-left: -214px;
+}
+#spa {
+  margin-left: -99px;
+}
+
+.lower-banner {
+  padding: 43px 0px;
+}
+.lb-dag {
+  margin-left: 398px;
+}
+.guide-mix {
+  bottom: -878px;
+  left: 279px;
+}
+
+.g-right p {
+  font-size: 24px;
+}
+.news {
+  padding-top: 40px;
+}
+.quiek #in-right-btn {
+  top: 150cm;
+ right: 5%
+}
+
+
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    .banner {
+      height: 85vh;
+  }
+  .banner .sticky {
+    width: 99%;
+  
+}
+.banner h1 {
+  font-size: 40px;
+}
+.form-box {
+  padding: 22px 15px 2px 7px;
+}
+.sec-chap label {
+  margin-left: -172px;
+}
+#spa {
+  margin-left: -64px;
+}
+.lower-banner {
+  padding: 1px 0px;
+}
+.lb-dag {
+  margin-left: 274px;
+}
+.guide-mix {
+  padding: 37px 19px;
+  bottom: -914px;
+  left: 194px;
+}
+.cho-dag {
+  margin-left: 289px;
+}
+.news {
+  padding-top: 15px;
+}
+.quiek #in-right-btn {
+  top: 151cm;
+  right: 3%;
+}
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+  
+    .banner h1 {
+      font-size: 51px;
+  }
+  .lb-dag {
+    margin-left: 419px;
+}
+    .sec-chap label {
+      margin-left: -210px;
+  }
+  #spa {
+    margin-left: -102px;
+}
+.cho-dag {
+  margin-left: 412px;
+}
+
+  .guide-mix {
+    bottom: -1528px;
+    left: 274px;
+}
+  .quiek #in-right-btn {
+    top: 151cm;
+    right: 4%;
+}
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    .container, .container-sm {
+      max-width: auto;
+      margin: 0%;
+      padding: 0%;
+  }
+
+  header{
+    height: 181vh;
+
+  }
+  header .overlay {
+    height: 181vh;
+}
+.lb-dag {
+  margin-left: 201px;
+}
+.forp .ppp {
+  font-size: 18px;
+}
+.guide-mix {
+  bottom: -2533px;
+  left: 440px;
+}
+.g-right h1 {
+  margin-bottom: 25px;
+  padding-top: 90px;
+
+}
+.guide   .offset-2 {
+  margin-left: 0.666667%;
+}
+.g-right p {
+  font-size: 18px;
+}
+    .banner h1 {
+      font-size: 53px;
+  }
+  .banner h2 {
+    margin-right: 103px;
+}
+.sec-chap label {
+  margin-left: -629px;
+}
+#spa {
+  margin-left: -518px;
+}
+
+.banner .offset-1 {
+  margin-left: 1.333333%;
+}
+.banner .bl-btn {
+  margin-bottom: 38px;
+}
+
+.connect p {
+  margin-left: 15px;
+}
+.cho-dag {
+  
+  margin-left: 203px;
+}
+
+#uptodown{
+  right: 136px;
+}
+.footer {
+  padding-top: 71px;
+
+}
+.footer-info .imp {
+  font-size: 19px;
+}
+.quiek p {
+  font-size: 17px;
+}
+.quiek h4 {
+  margin-top: 2px;
+}
+.footer  .offset-1 {
+  margin-left: 0.333333%;
+}
+.quiek #in-right-btn {
+  top: 258cm;
+  right: 17%;
+}
+
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+
+  body{
+overflow-x : hidden;
+   }
+
+
+  header{
+    width: 100%;  
+    height: 172vh;
+  }
+  .overlay{
+    width: 100%;
+    height: 172%;
+  }
+  .sticky {
+    width: 100%;
+ 
+}
+
+.row .offset-2{
+    margin-left: 10.666667%;
+}
+
+  .banner  {
+width: 100%;
+  }
+  .banner h1 {
+    padding-right: 44px;
+    font-size: 42px;
+    margin-top: -57px;
+  }
+  .banner h2 {
+    font-size: 16px !important;
+  }
+  .banner .bl-btn {
+    margin-bottom: 40px;
+    font-size: 10px;
+}
+.banner .offset-1 {
+  margin-left: 3.333333%;
+}
+
+.form-box {
+  padding: 32px 26px 15px 24px;
+}
+.banner h2 {
+  font-size: 18px;
+}
+.form-box p {
+  font-size: 13px;
+}
+.sec-chap label {
+  font-size: 12px;
+  margin-left: -202px;
+}
+#spa {
+  margin-left: -96px;
+}
+.lower-banner {
+  width: 100%;
+  padding: 40px 0px;
+}
+.lb-text h2 {
+  font-size: 22px;
+}
+.forp .ppp {
+  font-size: 13px;
+
+}
+.left-lb h4{
+  font-size: 19px;
+}
+.lb-dag {
+  margin-left: 86px;
+}
+
+/* guide css */
+.guide {
+  padding: 50px 0px;
+  width: 100%;
+}
+.guide .offset-2 {
+  margin-left: 0.666667%;
+}
+.guide-mix {
+  padding: 30px 4px;
+  bottom: -348%;
+  left: 182px;
+}
+.guide-mix p {
+  font-size: 12px;
+}
+
+.g-con h3 {
+  font-size: 44px;
+}
+
+.g-right h1 {
+  font-size: 18px;
+  margin-top: 60px;
+}
+.g-right p {
+  font-size: 12px;
+  margin-top: 7px;
+}
+.connect p {
+  padding-left: 9px;
+  margin: 6px;
+}
+.guide-btn {
+  font-size: 11px; 
+}
+/* choose css */
+.chooses {
+  width: 100%;
+  padding: 44px 0px;
+}
+.choose-text h2 {
+  font-size: 30px;
+}
+.choose-text p {
+  margin-top: 5px;
+  font-size: 11px;
+  margin-bottom: 24px;
+}
+.cho-dag {
+  margin-left: 83px;
+}
+.left-choose h4 {
+  font-size: 22px;
+  margin-top: 25px;
+  margin-bottom: 18px;
+}
+
+/* get loan css */
+.get-loan {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  width: 100%;
+}
+.get-right h1 { 
+  font-size: 27px;
+  margin-bottom: 12px;
+}
+.get-right p {
+  font-size: 13px;
+}
+.dot p {
+  font-size: 15px;
+  margin: 0%;
+  margin-left: 12px;
+  padding-top: 4px;
+}
+.get-btn{
+  font-size: 13px;
+}
+.get-loan .offset-1{
+margin-left: -0.666667%;
+}
+
+
+/* sliders css */
+
+.sliders {
+  width: 100%;
+  padding: 50px 60px;
+}
+
+.slider-text p {
+    font-size: 16px;
+}
+
+element.style {
+}
+.under h2 {
+    font-size: 13px;
+}
+.under p {
+  font-size: 1
+  2px;
+}
+
+/* news css */
+
+.news {
+  width: 100%;
+  padding-top:0px;
+  padding-bottom: 60px;
+}
+
+.news .img-fluid {
+  margin: 33px 0px;
+}
+
+/* footer css */
+.footer {
+  width: 100%;
+  padding-top: 22px;
+  padding-bottom: 43px;
+}
+
+.footer-info .imp {
+  padding-top: 29px;
+  margin-bottom: 42px;
+
+}
+.ftre{
+  font-size: 11px;
+}
+
+.quiek h4 {
+  margin-top: 26px;
+  margin-bottom: 13px;
+}
+.footer .quiek{
+ margin-left: 0.333333%;
+}
+
+.quiek #in-right-btn {
+  top: 230cm;
+  right: 4%;
+}
+#uptodown{
+  right: 59px;
+  bottom: 47px;
+}
+.ftre i, .ftre span {
+  color: #10c98f;
+  font-size: 15px;
+}
